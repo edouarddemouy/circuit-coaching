@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alain KETTLEBELL &#8211; C2 Circuit Coaching</title>
+	<atom:link href="/author/alain-kettlebel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Votre Coach Atlantique</description>
+	<lastBuildDate>Tue, 23 Mar 2021 11:50:53 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/01/cropped-Favicon-32x32.png</url>
+	<title>Alain KETTLEBELL &#8211; C2 Circuit Coaching</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>La course à obstacles</title>
+		<link>/la-course-a-obstacles/</link>
+		
+		<dc:creator><![CDATA[Alain KETTLEBELL]]></dc:creator>
+		<pubDate>Sat, 09 Jan 2021 09:13:55 +0000</pubDate>
+				<category><![CDATA[Événement]]></category>
+		<guid isPermaLink="false">/?p=142</guid>
+
+					<description><![CDATA[<p>La course à obstacle : pourquoi ça plait ? La course à obstacles se popularise. Avec plus de 130 courses en France en 2015 et 272 147 dossards vendus, on estime à environ à 180.000 le nombre de personnes ayant participé au moins à une course à obstacles cette année.<a class="moretag" href="/la-course-a-obstacles/"> Lire la suite&#8230;</a></p>
+<p>L’article <a rel="nofollow" href="/la-course-a-obstacles/">La course à obstacles</a> est apparu en premier sur <a rel="nofollow" href="/">C2 Circuit Coaching</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
